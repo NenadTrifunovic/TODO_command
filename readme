@@ -1,0 +1,10 @@
+# Ideja projekti je da imam TtDO aplikaciju u command promptu za pisanje T ODO liste
+#
+# Ako pokrenem sa  to do "Nekakav tekst " ona će to spremiti u fajl sa trenutačnim datumom kada je pokrenuto , tj appendat ćellipsis ## implementirano
+# AKo  pokrenem  today onda će pročitati natrag sve kaj je na taj datum trebam napraviti
+# Ako  pokrenem  all onda će mi isprintati sve moje zadatke
+# Ako pokrenem  today/all send onda će mi na moj mail poslati današnje ili sve zadatke
+#Ako pokrenem to do datum da mi onda taj datum pošalje
+
+#
+# #napraviti batch skriptu i pustiti je u PATH da mogu svugdje zvat sa T ODO ## naparavljeno da dize sa TODO
